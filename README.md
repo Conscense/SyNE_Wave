@@ -48,7 +48,7 @@ This process allows real-time, offline communication even without signal towers 
 | **Transceiver** | LoRa SX1276 |
 | **Frameworks** | Arduino IDE, IntelliJ IDEA |
 | **Languages** | Dart, C++ |
-| **Connectivity** | Bluetooth / Wi-Fi Direct |
+| **Connectivity** | Wi-Fi Direct |
 | **Platform** | Android |
 
 ---
